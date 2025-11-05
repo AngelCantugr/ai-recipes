@@ -40,6 +40,14 @@ Core prompts for major engineering responsibilities.
 | [Technical Strategy](mains/leadership/technical-strategy.md) | Setting technical vision & roadmap | 2-4 hours |
 | [Incident Postmortem](mains/leadership/incident-postmortem.md) | Learning from incidents | 1-2 hours |
 
+### Communication & Documentation
+
+| Recipe | Best For | Time |
+|--------|----------|------|
+| [One-Pager Creator](mains/one-pager.md) | Concise proposals & project summaries | 30-60 min |
+| [Design Document Creator](mains/design-document.md) | Comprehensive technical design docs | 2-3 hours |
+| [Learning Session Designer](mains/learning-session.md) | Creating workshops & tech talks | 1-2 hours |
+
 ## 🥖 Sides - Supporting Tasks
 
 Prompts that complement your main work.
@@ -90,6 +98,11 @@ Building blocks to enhance any prompt.
 - [Refactoring Strategy](mains/code-quality/refactoring-strategy.md)
 - [Test Strategy](mains/code-quality/test-strategy.md)
 
+**Communication & Knowledge Sharing**
+- [One-Pager Creator](mains/one-pager.md)
+- [Design Document Creator](mains/design-document.md)
+- [Learning Session Designer](mains/learning-session.md)
+
 ---
 
 ## 🔍 Find by Task
@@ -123,12 +136,30 @@ Building blocks to enhance any prompt.
 3. [Meeting Summary](sides/meeting-summary.md) - Document decisions
 4. [Retrospective](desserts/retrospective.md) - Continuous improvement
 
+**Communicating & Teaching**
+1. [Meeting Prep](appetizers/meeting-prep.md) - Prepare for discussions
+2. [One-Pager Creator](mains/one-pager.md) - Create proposals
+3. [Design Document Creator](mains/design-document.md) - Document architecture
+4. [Learning Session Designer](mains/learning-session.md) - Design workshops
+5. [Documentation Generator](sides/documentation-generator.md) - Generate docs
+
 ---
+
+## 📚 Learning Resources
+
+New to prompt engineering? Check out our comprehensive learning documentation:
+
+- **[Documentation Hub](docs/README.md)** - Complete learning center with guides and examples
+- **[Prompt Engineering Fundamentals](docs/prompt-engineering/01-fundamentals.md)** - Start here if you're new
+- **[Context Engineering](docs/context-engineering/01-context-design.md)** - Master context provision
+- **[Before & After Examples](docs/examples/before-after.md)** - See real transformations
+- **[Glossary](docs/references/glossary.md)** - Key terminology reference
 
 ## 💡 Quick Tips
 
-- **New to AI prompts?** Start with [Prompt Patterns](ingredients/prompt-patterns.md) to learn effective techniques
+- **New to AI prompts?** Start with [Prompt Engineering Fundamentals](docs/prompt-engineering/01-fundamentals.md), then explore [Prompt Patterns](ingredients/prompt-patterns.md)
 - **Need better responses?** Use [Context Templates](ingredients/context-templates.md) to provide structured context
+- **Want to learn deeply?** Follow the [Learning Paths](docs/README.md#-learning-paths) in the docs
 - **Working on something complex?** Combine multiple recipes (e.g., System Design + Technical Decision + Documentation)
 - **Time constrained?** Check the "Time" column to pick appropriately scoped recipes
 - **Customize!** All recipes are templates - adapt them to your specific needs
