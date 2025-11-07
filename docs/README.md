@@ -24,10 +24,12 @@ Comprehensive guides on crafting effective prompts:
 
 ### [Context Engineering](./context-engineering/)
 Mastering context provision and optimization:
+- **[⚡ Executive Summary](./context-engineering/executive-summary.md)** - Quick-start guide (5 min read)
+- **[🚀 2025 Context Management Proposal](./context-engineering/2025-context-management-proposal.md)** - Comprehensive guide to modern context engineering (60 min read)
 - **[Context Design](./context-engineering/01-context-design.md)** - Structuring information
-- **[Token Optimization](./context-engineering/02-token-optimization.md)** - Efficiency techniques
-- **[Information Architecture](./context-engineering/03-information-architecture.md)** - Organization patterns
-- **[Context Templates](./context-engineering/04-templates.md)** - Reusable structures
+- **[Token Optimization](./context-engineering/02-token-optimization.md)** - Efficiency techniques (coming soon)
+- **[Information Architecture](./context-engineering/03-information-architecture.md)** - Organization patterns (coming soon)
+- **[Context Templates](./context-engineering/04-templates.md)** - Reusable structures (coming soon)
 
 ### [Examples](./examples/)
 Real-world applications and case studies:
@@ -112,6 +114,29 @@ For those seeking mastery:
    - Experiment with novel approaches
    - Contribute to research discussions
    - Shape best practices
+
+### Path 4: Transitioning to AI Engineering (20-30 hours)
+For software engineers moving into AI engineering:
+
+1. **Modern Context Engineering** (8 hours)
+   - Study [2025 Context Management Proposal](./context-engineering/2025-context-management-proposal.md)
+   - Understand RAG, MCP, and agentic workflows
+   - Set up your context engineering toolchain
+
+2. **Implementation** (10 hours)
+   - Follow the 8-week implementation roadmap
+   - Build multi-agent systems
+   - Integrate MCP and advanced RAG
+
+3. **Optimization** (6 hours)
+   - Monitor and optimize context usage
+   - Measure performance improvements
+   - Iterate on your workflows
+
+4. **Continuous Learning** (ongoing)
+   - Stay current with AI developments
+   - Experiment with cutting-edge techniques
+   - Contribute to the AI engineering community
 
 ## 🎓 Recommended Learning Approach
 
